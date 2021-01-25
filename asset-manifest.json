@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/elise_eats/static/css/main.d8b4a127.chunk.css",
+    "main.js": "/elise_eats/static/js/main.98309e37.chunk.js",
+    "main.js.map": "/elise_eats/static/js/main.98309e37.chunk.js.map",
+    "runtime-main.js": "/elise_eats/static/js/runtime-main.a27834b6.js",
+    "runtime-main.js.map": "/elise_eats/static/js/runtime-main.a27834b6.js.map",
+    "static/css/2.b4057251.chunk.css": "/elise_eats/static/css/2.b4057251.chunk.css",
+    "static/js/2.8ab51546.chunk.js": "/elise_eats/static/js/2.8ab51546.chunk.js",
+    "static/js/2.8ab51546.chunk.js.map": "/elise_eats/static/js/2.8ab51546.chunk.js.map",
+    "static/js/3.feb940cd.chunk.js": "/elise_eats/static/js/3.feb940cd.chunk.js",
+    "static/js/3.feb940cd.chunk.js.map": "/elise_eats/static/js/3.feb940cd.chunk.js.map",
+    "index.html": "/elise_eats/index.html",
+    "static/css/2.b4057251.chunk.css.map": "/elise_eats/static/css/2.b4057251.chunk.css.map",
+    "static/css/main.d8b4a127.chunk.css.map": "/elise_eats/static/css/main.d8b4a127.chunk.css.map",
+    "static/js/2.8ab51546.chunk.js.LICENSE.txt": "/elise_eats/static/js/2.8ab51546.chunk.js.LICENSE.txt",
+    "static/media/facebook.5b4225fa.png": "/elise_eats/static/media/facebook.5b4225fa.png",
+    "static/media/meat_and_three.deaefa03.jpg": "/elise_eats/static/media/meat_and_three.deaefa03.jpg",
+    "static/media/pink_house_logo.650e648f.png": "/elise_eats/static/media/pink_house_logo.650e648f.png",
+    "static/media/salmon_beans.dcf115e6.jpg": "/elise_eats/static/media/salmon_beans.dcf115e6.jpg",
+    "static/media/strawberry_cake_2.2fd2cb31.JPG": "/elise_eats/static/media/strawberry_cake_2.2fd2cb31.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a27834b6.js",
+    "static/css/2.b4057251.chunk.css",
+    "static/js/2.8ab51546.chunk.js",
+    "static/css/main.d8b4a127.chunk.css",
+    "static/js/main.98309e37.chunk.js"
+  ]
+}
