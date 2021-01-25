@@ -1,0 +1,63 @@
+.globalStyle {
+    background-color: white
+}
+
+.logoImage{
+    height: 20vh;
+    width: auto;
+    padding: 10px;
+}
+
+.navbar {
+  height: auto;
+  width: auto;
+  color: black;
+  text-align: center;
+  display: flex;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+  background-color: inherit;
+}
+
+.imageHolder {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+.footer {
+  background-color: inherit;
+  position: relative;
+  left:0;
+  bottom:0;
+  right:0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.frontPageImage {
+    height: 500px;
+    width:  auto;
+}
+
+.frontPageText {
+  font-size: 30px;
+  font-family: sans-serif;
+  display: flex;
+  color: #5f9ea0;
+  text-decoration: none;
+  justify-content: center;
+}
+.textLink {
+    color: inherit;
+    text-decoration: none;
+}
+
+.contactImage {
+    height: 50px;
+    width: auto;
+    margin: 5px;
+}
