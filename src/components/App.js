@@ -23,7 +23,6 @@ class App extends React.Component {
       <Router>
       <NavBar />
         <Switch>
-          <Route path="/Landing" exact component={FrontPage}/>
           <Route path="/Catering" exact component={Catering}/>
           <Route path="/Deserts" exact component={Deserts}/>
           <Route path="/Contact" exact component={Contact}/>
