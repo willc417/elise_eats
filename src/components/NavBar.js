@@ -8,7 +8,7 @@ class NavBar extends React.Component {
   render() {
      return(
        <header className="navbar">
-      <Link className="textLink" to="/Landing">
+      <Link className="textLink" to="/">
         <img src={ph_logo} className="logoImage"/>
       </Link>
        </header>
