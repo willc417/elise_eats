@@ -14,10 +14,6 @@ import Catering from "./Catering.js"
 import Deserts from "./Deserts.js"
 import Contact from "./Contact.js"
 import OpenImageGallery from "./OpenImageGallery.js"
-//import About from "./.js"
-
-
-
 
 
 class App extends React.Component {
