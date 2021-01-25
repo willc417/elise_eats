@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/elise_eats/static/css/main.d8b4a127.chunk.css",
-    "main.js": "/elise_eats/static/js/main.0632f761.chunk.js",
-    "main.js.map": "/elise_eats/static/js/main.0632f761.chunk.js.map",
-    "runtime-main.js": "/elise_eats/static/js/runtime-main.a27834b6.js",
-    "runtime-main.js.map": "/elise_eats/static/js/runtime-main.a27834b6.js.map",
-    "static/css/2.b4057251.chunk.css": "/elise_eats/static/css/2.b4057251.chunk.css",
-    "static/js/2.8ab51546.chunk.js": "/elise_eats/static/js/2.8ab51546.chunk.js",
-    "static/js/2.8ab51546.chunk.js.map": "/elise_eats/static/js/2.8ab51546.chunk.js.map",
-    "static/js/3.feb940cd.chunk.js": "/elise_eats/static/js/3.feb940cd.chunk.js",
-    "static/js/3.feb940cd.chunk.js.map": "/elise_eats/static/js/3.feb940cd.chunk.js.map",
-    "index.html": "/elise_eats/index.html",
-    "static/css/2.b4057251.chunk.css.map": "/elise_eats/static/css/2.b4057251.chunk.css.map",
-    "static/css/main.d8b4a127.chunk.css.map": "/elise_eats/static/css/main.d8b4a127.chunk.css.map",
-    "static/js/2.8ab51546.chunk.js.LICENSE.txt": "/elise_eats/static/js/2.8ab51546.chunk.js.LICENSE.txt",
-    "static/media/facebook.5b4225fa.png": "/elise_eats/static/media/facebook.5b4225fa.png",
-    "static/media/meat_and_three.deaefa03.jpg": "/elise_eats/static/media/meat_and_three.deaefa03.jpg",
-    "static/media/pink_house_logo.650e648f.png": "/elise_eats/static/media/pink_house_logo.650e648f.png",
-    "static/media/salmon_beans.dcf115e6.jpg": "/elise_eats/static/media/salmon_beans.dcf115e6.jpg",
-    "static/media/strawberry_cake_2.2fd2cb31.JPG": "/elise_eats/static/media/strawberry_cake_2.2fd2cb31.JPG"
+    "main.css": "/pinkhouse-catering/static/css/main.d8b4a127.chunk.css",
+    "main.js": "/pinkhouse-catering/static/js/main.bd9ff813.chunk.js",
+    "main.js.map": "/pinkhouse-catering/static/js/main.bd9ff813.chunk.js.map",
+    "runtime-main.js": "/pinkhouse-catering/static/js/runtime-main.7c6121ba.js",
+    "runtime-main.js.map": "/pinkhouse-catering/static/js/runtime-main.7c6121ba.js.map",
+    "static/css/2.b4057251.chunk.css": "/pinkhouse-catering/static/css/2.b4057251.chunk.css",
+    "static/js/2.116b2523.chunk.js": "/pinkhouse-catering/static/js/2.116b2523.chunk.js",
+    "static/js/2.116b2523.chunk.js.map": "/pinkhouse-catering/static/js/2.116b2523.chunk.js.map",
+    "static/js/3.7fd75a3d.chunk.js": "/pinkhouse-catering/static/js/3.7fd75a3d.chunk.js",
+    "static/js/3.7fd75a3d.chunk.js.map": "/pinkhouse-catering/static/js/3.7fd75a3d.chunk.js.map",
+    "index.html": "/pinkhouse-catering/index.html",
+    "static/css/2.b4057251.chunk.css.map": "/pinkhouse-catering/static/css/2.b4057251.chunk.css.map",
+    "static/css/main.d8b4a127.chunk.css.map": "/pinkhouse-catering/static/css/main.d8b4a127.chunk.css.map",
+    "static/js/2.116b2523.chunk.js.LICENSE.txt": "/pinkhouse-catering/static/js/2.116b2523.chunk.js.LICENSE.txt",
+    "static/media/facebook.5b4225fa.png": "/pinkhouse-catering/static/media/facebook.5b4225fa.png",
+    "static/media/meat_and_three.deaefa03.jpg": "/pinkhouse-catering/static/media/meat_and_three.deaefa03.jpg",
+    "static/media/pink_house_logo.650e648f.png": "/pinkhouse-catering/static/media/pink_house_logo.650e648f.png",
+    "static/media/salmon_beans.dcf115e6.jpg": "/pinkhouse-catering/static/media/salmon_beans.dcf115e6.jpg",
+    "static/media/strawberry_cake_2.2fd2cb31.JPG": "/pinkhouse-catering/static/media/strawberry_cake_2.2fd2cb31.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.a27834b6.js",
+    "static/js/runtime-main.7c6121ba.js",
     "static/css/2.b4057251.chunk.css",
-    "static/js/2.8ab51546.chunk.js",
+    "static/js/2.116b2523.chunk.js",
     "static/css/main.d8b4a127.chunk.css",
-    "static/js/main.0632f761.chunk.js"
+    "static/js/main.bd9ff813.chunk.js"
   ]
 }
