@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/pinkhouse-catering/static/css/main.d8b4a127.chunk.css",
-    "main.js": "/pinkhouse-catering/static/js/main.bd9ff813.chunk.js",
-    "main.js.map": "/pinkhouse-catering/static/js/main.bd9ff813.chunk.js.map",
+    "main.js": "/pinkhouse-catering/static/js/main.d8c51ecf.chunk.js",
+    "main.js.map": "/pinkhouse-catering/static/js/main.d8c51ecf.chunk.js.map",
     "runtime-main.js": "/pinkhouse-catering/static/js/runtime-main.7c6121ba.js",
     "runtime-main.js.map": "/pinkhouse-catering/static/js/runtime-main.7c6121ba.js.map",
     "static/css/2.b4057251.chunk.css": "/pinkhouse-catering/static/css/2.b4057251.chunk.css",
-    "static/js/2.116b2523.chunk.js": "/pinkhouse-catering/static/js/2.116b2523.chunk.js",
-    "static/js/2.116b2523.chunk.js.map": "/pinkhouse-catering/static/js/2.116b2523.chunk.js.map",
+    "static/js/2.6f0a4b0e.chunk.js": "/pinkhouse-catering/static/js/2.6f0a4b0e.chunk.js",
+    "static/js/2.6f0a4b0e.chunk.js.map": "/pinkhouse-catering/static/js/2.6f0a4b0e.chunk.js.map",
     "static/js/3.7fd75a3d.chunk.js": "/pinkhouse-catering/static/js/3.7fd75a3d.chunk.js",
     "static/js/3.7fd75a3d.chunk.js.map": "/pinkhouse-catering/static/js/3.7fd75a3d.chunk.js.map",
     "index.html": "/pinkhouse-catering/index.html",
     "static/css/2.b4057251.chunk.css.map": "/pinkhouse-catering/static/css/2.b4057251.chunk.css.map",
     "static/css/main.d8b4a127.chunk.css.map": "/pinkhouse-catering/static/css/main.d8b4a127.chunk.css.map",
-    "static/js/2.116b2523.chunk.js.LICENSE.txt": "/pinkhouse-catering/static/js/2.116b2523.chunk.js.LICENSE.txt",
+    "static/js/2.6f0a4b0e.chunk.js.LICENSE.txt": "/pinkhouse-catering/static/js/2.6f0a4b0e.chunk.js.LICENSE.txt",
     "static/media/facebook.5b4225fa.png": "/pinkhouse-catering/static/media/facebook.5b4225fa.png",
     "static/media/meat_and_three.deaefa03.jpg": "/pinkhouse-catering/static/media/meat_and_three.deaefa03.jpg",
     "static/media/pink_house_logo.650e648f.png": "/pinkhouse-catering/static/media/pink_house_logo.650e648f.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.7c6121ba.js",
     "static/css/2.b4057251.chunk.css",
-    "static/js/2.116b2523.chunk.js",
+    "static/js/2.6f0a4b0e.chunk.js",
     "static/css/main.d8b4a127.chunk.css",
-    "static/js/main.bd9ff813.chunk.js"
+    "static/js/main.d8c51ecf.chunk.js"
   ]
 }
