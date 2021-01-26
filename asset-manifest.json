@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/pinkhouse-catering/static/css/main.d8b4a127.chunk.css",
-    "main.js": "/pinkhouse-catering/static/js/main.d8c51ecf.chunk.js",
-    "main.js.map": "/pinkhouse-catering/static/js/main.d8c51ecf.chunk.js.map",
-    "runtime-main.js": "/pinkhouse-catering/static/js/runtime-main.7c6121ba.js",
-    "runtime-main.js.map": "/pinkhouse-catering/static/js/runtime-main.7c6121ba.js.map",
+    "main.css": "/pinkhouse-catering/static/css/main.cc7a8829.chunk.css",
+    "main.js": "/pinkhouse-catering/static/js/main.ceb47a71.chunk.js",
+    "main.js.map": "/pinkhouse-catering/static/js/main.ceb47a71.chunk.js.map",
+    "runtime-main.js": "/pinkhouse-catering/static/js/runtime-main.fcfb3e42.js",
+    "runtime-main.js.map": "/pinkhouse-catering/static/js/runtime-main.fcfb3e42.js.map",
     "static/css/2.b4057251.chunk.css": "/pinkhouse-catering/static/css/2.b4057251.chunk.css",
-    "static/js/2.6f0a4b0e.chunk.js": "/pinkhouse-catering/static/js/2.6f0a4b0e.chunk.js",
-    "static/js/2.6f0a4b0e.chunk.js.map": "/pinkhouse-catering/static/js/2.6f0a4b0e.chunk.js.map",
-    "static/js/3.7fd75a3d.chunk.js": "/pinkhouse-catering/static/js/3.7fd75a3d.chunk.js",
-    "static/js/3.7fd75a3d.chunk.js.map": "/pinkhouse-catering/static/js/3.7fd75a3d.chunk.js.map",
+    "static/js/2.e0ad05c8.chunk.js": "/pinkhouse-catering/static/js/2.e0ad05c8.chunk.js",
+    "static/js/2.e0ad05c8.chunk.js.map": "/pinkhouse-catering/static/js/2.e0ad05c8.chunk.js.map",
+    "static/js/3.86fa770e.chunk.js": "/pinkhouse-catering/static/js/3.86fa770e.chunk.js",
+    "static/js/3.86fa770e.chunk.js.map": "/pinkhouse-catering/static/js/3.86fa770e.chunk.js.map",
     "index.html": "/pinkhouse-catering/index.html",
     "static/css/2.b4057251.chunk.css.map": "/pinkhouse-catering/static/css/2.b4057251.chunk.css.map",
-    "static/css/main.d8b4a127.chunk.css.map": "/pinkhouse-catering/static/css/main.d8b4a127.chunk.css.map",
-    "static/js/2.6f0a4b0e.chunk.js.LICENSE.txt": "/pinkhouse-catering/static/js/2.6f0a4b0e.chunk.js.LICENSE.txt",
+    "static/css/main.cc7a8829.chunk.css.map": "/pinkhouse-catering/static/css/main.cc7a8829.chunk.css.map",
+    "static/js/2.e0ad05c8.chunk.js.LICENSE.txt": "/pinkhouse-catering/static/js/2.e0ad05c8.chunk.js.LICENSE.txt",
+    "static/media/elise_photo.6493d0ab.jpeg": "/pinkhouse-catering/static/media/elise_photo.6493d0ab.jpeg",
     "static/media/facebook.5b4225fa.png": "/pinkhouse-catering/static/media/facebook.5b4225fa.png",
     "static/media/meat_and_three.deaefa03.jpg": "/pinkhouse-catering/static/media/meat_and_three.deaefa03.jpg",
     "static/media/pink_house_logo.650e648f.png": "/pinkhouse-catering/static/media/pink_house_logo.650e648f.png",
@@ -21,10 +22,10 @@
     "static/media/strawberry_cake_2.2fd2cb31.JPG": "/pinkhouse-catering/static/media/strawberry_cake_2.2fd2cb31.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.7c6121ba.js",
+    "static/js/runtime-main.fcfb3e42.js",
     "static/css/2.b4057251.chunk.css",
-    "static/js/2.6f0a4b0e.chunk.js",
-    "static/css/main.d8b4a127.chunk.css",
-    "static/js/main.d8c51ecf.chunk.js"
+    "static/js/2.e0ad05c8.chunk.js",
+    "static/css/main.cc7a8829.chunk.css",
+    "static/js/main.ceb47a71.chunk.js"
   ]
 }
