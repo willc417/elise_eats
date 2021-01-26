@@ -1,6 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
 import ReactBnbGallery from 'react-bnb-gallery'
+import Button from '@material-ui/core/Button';
 
 
 class OpenImageGallery extends React.Component {
@@ -38,10 +39,10 @@ class OpenImageGallery extends React.Component {
 
   render() {
     return (
-      <div>
-      <button onClick={this.openGallery}>
-          Check out our mouthwatering dishes!
-        </button>
+      <div className="galleryButtonHolder">
+      <Button onClick={this.openGallery} variant="contained" style={{justifyContent: 'center'}}>
+          Check out Photos!
+     </Button>
       <ReactBnbGallery photos={this.state.images} show={this.state.isOpen} onClose={this.closeGallery}/>
       </div>
     )

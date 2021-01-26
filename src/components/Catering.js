@@ -10,27 +10,10 @@ class Catering extends React.Component {
           images:  []
       };
   }
-
-  // componentDidMount() {
-  //     fetch("https://xf1hw27lqf.execute-api.us-east-2.amazonaws.com/alpha/images?foldername=catering_images",
-  //           {crossDomain: true})
-  //       .then(res => res.json())
-  //       .then(
-  //           (result) => {
-  //           console.log(result)
-  //           this.setState({
-  //               images: result.images
-  //           });
-  //           }
-  //       )
-  //   }
-
-//<ImageGallery items={images} showThumbnails={false} showFullscreenButton={false}/>
-
   render() {
     return (
-      <div>
-      <p>{this.state.images}</p>
+      <div className="aboutTextHolder">
+      <h1> Weekly Specials are Available on Facebook!</h1>
       </div>
     )
   }

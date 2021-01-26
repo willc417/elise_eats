@@ -5,6 +5,7 @@ class Contact extends React.Component {
   render() {
     return (
       <div>
+      <p> Contact Form Coming Soon </p>
       </div>
     )
   }

@@ -11,6 +11,28 @@ class NavBar extends React.Component {
       <Link className="textLink" to="/">
         <img src={ph_logo} className="logoImage"/>
       </Link>
+      <ul className="navList">
+      <li>
+      <Link className="navTextLink" to="/Catering">
+        Catering
+       </Link>
+      </li>
+      <li>
+        <Link className="navTextLink" to="/Deserts">
+          Deserts
+         </Link>
+      </li>
+      <li>
+      <Link className="navTextLink" to="/About">
+          About Us
+      </Link>
+      </li>
+      <li>
+      <Link className="navTextLink" to="/Contact">
+          Contact
+      </Link>
+      </li>
+      </ul>
        </header>
   );
   }
