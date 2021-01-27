@@ -41,6 +41,14 @@
     .bottomNav {
         display: none;
     }
+    .aboutText {
+        width: inherit;
+        color: #95d398;
+    }
+    .frontPageImage {
+        height: 500px;
+        width:  auto;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -75,6 +83,15 @@
         position: fixed;
         bottom: 0;
     }
+    .aboutText {
+        width: inherit;
+        color: #95d398;
+        font-size: 20px;
+    }
+    .frontPageImage {
+        height: 400px;
+        width:  auto;
+    }
 
 }
 
@@ -90,10 +107,6 @@
   flex-wrap: wrap;
 }
 
-.frontPageImage {
-    height: 500px;
-    width:  auto;
-}
 
 .frontPageText {
   font-size: 30px;
@@ -124,7 +137,6 @@
 .aboutText {
     width: inherit;
     color: #95d398;
-    margin: 50px;
 }
 
 .Button {
