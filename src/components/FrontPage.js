@@ -3,7 +3,7 @@ import {Link} from "react-router-dom";
 import './App.css';
 
 import catering_image from "../images/salmon_beans.jpg"
-import desert_image from "../images/strawberry_cake_2.JPG"
+import dessert_image from "../images/strawberry_cake_2.JPG"
 import about_image from "../images/meat_and_three.jpg"
 
 
@@ -18,10 +18,10 @@ class FrontPage extends React.Component {
       <p className="frontPageText">Catering</p>
       </div>
       </Link>
-      <Link to="/Deserts" className="textLink">
+      <Link to="/Desserts" className="textLink">
       <div >
-      <img className="frontPageImage" src={desert_image}/>
-      <p className="frontPageText">Deserts</p>
+      <img className="frontPageImage" src={dessert_image}/>
+      <p className="frontPageText">Desserts</p>
       </div>
       </Link>
       <Link to="/About" className="textLink">

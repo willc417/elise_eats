@@ -21,7 +21,7 @@ class About extends React.Component {
             <Grid item md>
               <h1 className="aboutText"><b style={{color: '#ff69b4'}}>Elise Clinton </b> owned and ran Mindfield Grill in Brownsville, TN
                for over 10 years. Now she is focusing on bringing her beloved dishes to hungry customers as
-              <b style={{color: '#ff69b4'}}> Pink House Catering</b>. Elise has teamed up with her mother Emily, who provides delicious homemade deserts,
+              <b style={{color: '#ff69b4'}}> Pink House Catering</b>. Elise has teamed up with her mother Emily, who provides delicious homemade desserts,
               to provide weekly catered meals.
               </h1>
              </Grid>

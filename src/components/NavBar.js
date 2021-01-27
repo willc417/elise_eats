@@ -18,8 +18,8 @@ class NavBar extends React.Component {
        </Link>
       </li>
       <li>
-        <Link className="navTextLink" to="/Deserts">
-          Deserts
+        <Link className="navTextLink" to="/Desserts">
+          Desserts
          </Link>
       </li>
       <li>

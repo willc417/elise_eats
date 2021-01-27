@@ -29,7 +29,7 @@ class BottomNav extends React.Component {
               >
                 <BottomNavigationAction label="Home" value="" icon={<Home />} />
                 <BottomNavigationAction label="Catering" value="Catering" icon={<Fastfood />} />
-                <BottomNavigationAction label="Deserts" value="Deserts" icon={<Cake />} />
+                <BottomNavigationAction label="Desserts" value="Desserts" icon={<Cake />} />
                 <BottomNavigationAction label="About" value="About" icon={<Info/>} />
               </BottomNavigation>
               </div>

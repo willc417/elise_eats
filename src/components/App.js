@@ -11,7 +11,7 @@ import NavBar from "./NavBar.js"
 import FrontPage from "./FrontPage.js"
 import Footer from "./Footer.js"
 import Catering from "./Catering.js"
-import Deserts from "./Deserts.js"
+import Desserts from "./Desserts.js"
 import About from "./About.js"
 import Contact from "./Contact.js"
 import OpenImageGallery from "./OpenImageGallery.js"
@@ -28,7 +28,7 @@ class App extends React.Component {
         <Switch>
           <Route path="/Catering" exact component={Catering}/>
           <Route path="/About" exact component={About}/>
-          <Route path="/Deserts" exact component={Deserts}/>
+          <Route path="/Desserts" exact component={Desserts}/>
           <Route path="/Contact" exact component={Contact}/>
           <Route path="/" exact component={FrontPage}/>
         </Switch>
