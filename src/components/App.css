@@ -10,22 +10,72 @@
     padding: 10px;
 }
 
-.navbar {
-  height: auto;
-  width: auto;
-  color: black;
-  text-align: center;
-  display: flex;
-  font-size: 30px;
-  justify-content: center;
-  align-items: center;
-  background-color: inherit;
+@media screen and (min-width: 600px) {
+    .navbar {
+      background-color: inherit;
+      height: auto;
+      width: 100%;
+      color: black;
+      text-align: center;
+      display: flex;
+      font-size: 30px;
+    }
+
+    .navList {
+        list-style: none;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .footer {
+      background-color: inherit;
+      position: relative;
+      left:0;
+      bottom:0;
+      right:0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .bottomNav {
+        display: none;
+    }
 }
 
-.navList {
-    list-style: none;
-    display: flex;
-    justify-content: center;
+@media screen and (max-width: 600px) {
+    .navbar {
+      background-color: inherit;
+      height: auto;
+      width: 100%;
+      color: black;
+      text-align: center;
+      display: block;
+      font-size: 30px;
+    }
+
+    .navList {
+        list-style: none;
+        display: none;
+        font-size: 20px;
+    }
+    .footer {
+      background-color: inherit;
+      position: relative;
+      left:0;
+      bottom:0;
+      right:0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 50px;
+    }
+    .bottomNav {
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+    }
+
 }
 
 .navTextLink {
@@ -38,18 +88,6 @@
   justify-content: center;
   display: flex;
   flex-wrap: wrap;
-}
-
-
-.footer {
-  background-color: inherit;
-  position: relative;
-  left:0;
-  bottom:0;
-  right:0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .frontPageImage {

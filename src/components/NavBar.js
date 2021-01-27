@@ -7,7 +7,7 @@ class NavBar extends React.Component {
 
   render() {
      return(
-       <header className="navbar">
+       <div className="navbar">
       <Link className="textLink" to="/">
         <img src={ph_logo} className="logoImage"/>
       </Link>
@@ -33,7 +33,7 @@ class NavBar extends React.Component {
       </Link>
       </li>
       </ul>
-       </header>
+       </div>
   );
   }
 }

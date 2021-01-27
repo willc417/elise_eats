@@ -15,6 +15,8 @@ import Deserts from "./Deserts.js"
 import About from "./About.js"
 import Contact from "./Contact.js"
 import OpenImageGallery from "./OpenImageGallery.js"
+import BottomNav from "./BottomNav.js"
+
 
 
 class App extends React.Component {
@@ -32,6 +34,7 @@ class App extends React.Component {
         </Switch>
       <OpenImageGallery/>
       <Footer/>
+      <BottomNav className="bottomNav" value="" history={this.props.history}/>
       </Router>
       </div>
     );
