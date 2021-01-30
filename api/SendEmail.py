@@ -63,4 +63,4 @@ def lambda_handler(event, context):
 
     send_email(sender_name, sender_email, body_text)
 
-    return {'statusCode': 200}
+    return {'statusCode': 200, "headers": {"Access-Control-Allow-Origin": '*'}}

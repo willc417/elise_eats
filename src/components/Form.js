@@ -23,7 +23,7 @@ export default class extends React.Component {
         	placeholder="Enter your name"
         	required
         	value={this.state.name}
-        	style={{width: '10%', height: '20px', margin: '5px'}}
+        	style={{width: '15%', height: '20px', margin: '5px'}}
       	/>
         <textarea
         	id="return-email"
@@ -32,7 +32,7 @@ export default class extends React.Component {
         	placeholder="Enter your email"
         	required
         	value={this.state.email}
-        	style={{width: '10%', height: '20px', margin: '5px'}}
+        	style={{width: '15%', height: '20px', margin: '5px'}}
       	/>
       	<textarea
         	id="email-text"
@@ -77,9 +77,8 @@ export default class extends React.Component {
             (result) => {
                 console.log(result)
                 this.setState({
-                    images: result.split(",")
+                    response: "Email Sent!"
                 });
-                console.log(this.state.images)
             }
         )
   }
