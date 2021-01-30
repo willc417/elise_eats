@@ -15,7 +15,7 @@ export default class extends React.Component {
 	return (
   	<form>
         <div className="formHolder">
-    	<h1>Send an email to pinkhouse38012@gmail.com:</h1>
+    	<h2 className="dessertHeader">Send an email to pinkhouse38012@gmail.com:</h2>
         <textarea
         	id="name"
         	name="name"
