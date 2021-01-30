@@ -14,6 +14,7 @@ class Catering extends React.Component {
     return (
       <div className="aboutTextHolder">
       <h1> Weekly Specials are Available on Facebook!</h1>
+      <p> Add Facebook Plugin Here </p>
       </div>
     )
   }

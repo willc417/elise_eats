@@ -27,7 +27,7 @@ class FrontPage extends React.Component {
       <Link to="/About" className="textLink">
       <div>
       <img className="frontPageImage" src={about_image}/>
-      <p className="frontPageText">About Us</p>
+      <p className="frontPageText">About</p>
       </div>
       </Link>
       </div>

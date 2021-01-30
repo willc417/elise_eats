@@ -107,6 +107,31 @@
   flex-wrap: wrap;
 }
 
+.dessertList li {
+    list-style: none;
+    color: #95d398;
+    font-size: 25px;
+    font-family: sans-serif;
+
+}
+
+.dessertHeader {
+    color: #ff69b4;
+    font-family: sans-serif;
+
+}
+
+.dessertTitle {
+    color: #f79c71;
+    font-family: sans-serif;
+
+}
+
+.formHolder {
+    display: grid;
+}
+
+
 
 .frontPageText {
   font-size: 30px;
@@ -137,6 +162,8 @@
 .aboutText {
     width: inherit;
     color: #95d398;
+    font-family: sans-serif;
+
 }
 
 .Button {
